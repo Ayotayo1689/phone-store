@@ -1,11 +1,4 @@
-*{
-    margin: 0 ;
-    padding: 0;
-}
-.navbar{
-    position: sticky;
-}
-.logo{
+/* .logo{
     font-weight: 500;
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -19,11 +12,8 @@
     display: flex;
     justify-content: space-evenly;
     padding: 3em 3em 0 3em;
-    /* align-items: center; */
-}
-.active{
-    color: green;
-}
+     align-items: center; */
+/*}
 li{
     list-style: none;
 }
@@ -35,5 +25,4 @@ li{
 }
 .footer .products{
     height: 200px;
-}
-
+} */
