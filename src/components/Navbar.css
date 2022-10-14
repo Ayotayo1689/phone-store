@@ -1,0 +1,54 @@
+.navv{
+    display: flex !important;
+    justify-content: space-between  !important;
+    padding: 0.5em 2em !important;
+    align-items: center !important;
+}
+.navv div{
+    display: flex !important;
+}
+.products{
+    color: white !important;
+    font-size: 20px !important;
+    font-weight: 600 !important;
+}
+a{
+    text-decoration: none !important;
+}
+nav{
+    display:flex !important;
+    justify-content:center !important;
+    align-items: center !important;
+    background-color: rgb(120, 247, 120);
+}
+button{
+    padding:0.6em 0.8em !important;
+    border-radius: 15px !important;
+    border: none !important;
+}
+.search{
+    margin:auto;
+    background-color: white !important;
+    display:flex !important;
+    justify-content: center !important;
+    align-items:center !important;
+    height: 35px !important;
+    padding:1em 0.5em !important;
+    border-radius:10px !important;
+}
+input{
+    border:none;
+    padding:0px 5px;
+}
+input:active{
+    border:none;
+}
+.count{
+    position: relative;
+    bottom: 1em;
+    right: 1em;
+}
+.button{
+    border-radius: 100% !important;
+    /* background-color: red !important; */
+}
